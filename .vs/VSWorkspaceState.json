@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\frontend",
+    "\\frontend\\src",
+    "\\frontend\\src\\components",
+    "\\frontend\\src\\views"
+  ],
+  "SelectedNode": "\\frontend\\src\\components\\SubmissionComponet.vue",
+  "PreviewInSolutionExplorer": false
+}
