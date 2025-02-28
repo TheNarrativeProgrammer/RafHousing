@@ -1,5 +1,5 @@
 <!--App.vue -> starts the actual vue app. It's the enry point. On every project, there should be 1 App.vue'-->
-
+<!--THIS IS VIEWABLE ON EVERY PAGE. It's the vue that is universally shown'-->
 <template>
    <div id="app">
        <header>
