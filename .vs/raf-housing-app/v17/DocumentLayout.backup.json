@@ -3,36 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\router.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\router.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\LeaderboardPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\views\\LeaderboardPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\ControlsPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\views\\ControlsPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\LandingPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\views\\LandingPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\components\\ProfileComponent.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\components\\ProfileComponent.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\UserPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\views\\UserPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\router.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\router.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\components\\ParentComponent.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\components\\ParentComponent.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\LandingPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\views\\LandingPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\components\\ChildComponent.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\components\\ChildComponent.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\LeaderboardPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\views\\LeaderboardPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\App.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\App.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\ContactPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\views\\ContactPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\FounderPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\views\\FounderPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\ControlsPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\views\\ControlsPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\AboutPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\views\\AboutPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -45,14 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\backend\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\AboutPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\views\\AboutPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\App.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\App.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,33 +74,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProfileComponent.vue",
-              "DocumentMoniker": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\components\\ProfileComponent.vue",
-              "RelativeDocumentMoniker": "frontend\\src\\components\\ProfileComponent.vue",
-              "ToolTip": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\components\\ProfileComponent.vue",
-              "RelativeToolTip": "frontend\\src\\components\\ProfileComponent.vue",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "FounderPage.vue",
+              "DocumentMoniker": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\FounderPage.vue",
+              "RelativeDocumentMoniker": "frontend\\src\\views\\FounderPage.vue",
+              "ToolTip": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\FounderPage.vue",
+              "RelativeToolTip": "frontend\\src\\views\\FounderPage.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2025-02-01T02:58:53.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T03:47:44.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "ContactPage.vue",
+              "DocumentMoniker": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\ContactPage.vue",
+              "RelativeDocumentMoniker": "frontend\\src\\views\\ContactPage.vue",
+              "ToolTip": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\ContactPage.vue",
+              "RelativeToolTip": "frontend\\src\\views\\ContactPage.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-01T03:16:39.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "UserPage.vue",
               "DocumentMoniker": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\UserPage.vue",
               "RelativeDocumentMoniker": "frontend\\src\\views\\UserPage.vue",
               "ToolTip": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\UserPage.vue",
               "RelativeToolTip": "frontend\\src\\views\\UserPage.vue",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
               "WhenOpened": "2025-02-01T02:40:13.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "AboutPage.vue",
               "DocumentMoniker": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\AboutPage.vue",
               "RelativeDocumentMoniker": "frontend\\src\\views\\AboutPage.vue",
@@ -104,57 +119,53 @@
               "RelativeToolTip": "frontend\\src\\views\\AboutPage.vue",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2025-02-01T02:31:42.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T02:31:42.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "ControlsPage.vue",
               "DocumentMoniker": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\ControlsPage.vue",
               "RelativeDocumentMoniker": "frontend\\src\\views\\ControlsPage.vue",
               "ToolTip": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\ControlsPage.vue",
               "RelativeToolTip": "frontend\\src\\views\\ControlsPage.vue",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2025-02-01T00:41:32.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T00:41:32.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "LeaderboardPage.vue",
               "DocumentMoniker": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\LeaderboardPage.vue",
               "RelativeDocumentMoniker": "frontend\\src\\views\\LeaderboardPage.vue",
               "ToolTip": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\LeaderboardPage.vue",
               "RelativeToolTip": "frontend\\src\\views\\LeaderboardPage.vue",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2025-01-31T22:52:16.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T22:52:16.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "App.vue",
               "DocumentMoniker": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\App.vue",
               "RelativeDocumentMoniker": "frontend\\src\\App.vue",
               "ToolTip": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\App.vue",
               "RelativeToolTip": "frontend\\src\\App.vue",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2025-01-16T22:43:05.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T22:43:05.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "router.js",
               "DocumentMoniker": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\router.js",
               "RelativeDocumentMoniker": "frontend\\src\\router.js",
               "ToolTip": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\router.js",
               "RelativeToolTip": "frontend\\src\\router.js",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-01-16T23:07:11.787Z",
               "EditorCaption": ""
@@ -167,27 +178,25 @@
               "RelativeDocumentMoniker": "frontend\\src\\views\\LandingPage.vue",
               "ToolTip": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\views\\LandingPage.vue",
               "RelativeToolTip": "frontend\\src\\views\\LandingPage.vue",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2025-01-16T23:16:49.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T23:16:49.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "ChildComponent.vue",
               "DocumentMoniker": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\components\\ChildComponent.vue",
               "RelativeDocumentMoniker": "frontend\\src\\components\\ChildComponent.vue",
               "ToolTip": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\components\\ChildComponent.vue",
               "RelativeToolTip": "frontend\\src\\components\\ChildComponent.vue",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2025-01-30T23:41:42.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T23:41:42.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "ParentComponent.vue",
               "DocumentMoniker": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\components\\ParentComponent.vue",
               "RelativeDocumentMoniker": "frontend\\src\\components\\ParentComponent.vue",
@@ -200,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\index.html",
               "RelativeDocumentMoniker": "frontend\\index.html",
@@ -208,12 +217,11 @@
               "RelativeToolTip": "frontend\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-30T22:21:44.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T22:21:44.571Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "main.js",
               "DocumentMoniker": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\frontend\\src\\main.js",
               "RelativeDocumentMoniker": "frontend\\src\\main.js",
@@ -221,12 +229,11 @@
               "RelativeToolTip": "frontend\\src\\main.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-16T23:13:46.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T23:13:46.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "server.js",
               "DocumentMoniker": "C:\\Users\\pg27reid\\source\\repos\\JS_HTML_term3\\raf-housing-app\\backend\\server.js",
               "RelativeDocumentMoniker": "backend\\server.js",
@@ -234,8 +241,7 @@
               "RelativeToolTip": "backend\\server.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-16T22:00:32.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T22:00:32.119Z"
             }
           ]
         }

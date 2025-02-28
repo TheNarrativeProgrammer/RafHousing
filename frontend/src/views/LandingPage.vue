@@ -30,6 +30,7 @@
             TaskList,
             ParentComponent
         }
+
     }
 </script>
 
