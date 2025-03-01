@@ -8,7 +8,8 @@
         },
         data() {
             return {
-                parentMessage: "Hello from parent" //variables are defined in data() and can be used in <template
+                parentMessage: "Hello from parent", //variables are defined in data() and can be used in <template
+                isInputCorret: true
             }
         },
         methods: {
@@ -22,10 +23,20 @@
                 const userEnteredInterest = this.$refs.newRaffInterest.value //save the input from the user as a const
 
                 if (userEnteredInterest) {
-                    const newInterest = document.createElement('p');        //create a new <p> element. This currently has no content or placement in DOM
-                    newInterest.textContent = userEnteredInterest;          //assigne the var storing the text from user to the text within the <p> element creates
-                    this.$refs.currentRaffInterest.appendChild(newInterest) //place the <p> in the DOM by appending it to the <div that contains the ref of currentRaffInterest
-                    this.$refs.newRaffInterest.value = '';                  //clear the input field
+                    const raffPattern = /\braff(s|s|f)?\b/i;                     //pattern to look for. Any variation on word "raff"
+                                                                                //variableOfPaternThatIsSearchingFor.test(variableToTest)
+
+                    if (raffPattern.test(userEnteredInterest)) {
+                        const newInterest = document.createElement('p');        //create a new <p> element. This currently has no content or placement in DOM
+                        newInterest.textContent = userEnteredInterest;          //assigne the var storing the text from user to the text within the <p> element creates
+                        this.$refs.currentRaffInterest.appendChild(newInterest) //place the <p> in the DOM by appending it to the <div that contains the ref of currentRaffInterest
+                        this.$refs.newRaffInterest.value = '';                  //clear the input field
+                        this.sInputCorret = true;
+                    }
+                    else {
+                        this.isInputCorret = false;
+                    }
+                    
                 }
             }
         }
@@ -41,6 +52,8 @@
         <!--the method AddNewInterest uses the ref to get the handle of the element to manipulate-->
         <input type="text" ref="newRaffInterest" />
         <button @click="AddNewInterest">Give Raff Another Interest</button>
+
+        <h3 v-if="!isInputCorret">Interest must be contain 'raff'</h3>
 
         <div class="interest" ref="currentRaffInterest">
             <h3>This is Raf</h3>
