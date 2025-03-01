@@ -17,6 +17,7 @@ import Leaderboard from './views/LeaderboardPage.vue';
 import ControlsPage from './views/ControlsPage.vue';
 import FounderPage from './views/FounderPage.vue';
 import ContactPage from './views/ContactPage.vue';
+import TaskListPage from './views/TaskListPage.vue';
 
 const routes = [
     {
@@ -57,6 +58,13 @@ const routes = [
         name: 'Contact',
         component: ContactPage
     },
+    {
+        path: '/tasklist',
+        name: 'TaskList',
+        component: TaskListPage
+    },
+    
+
 ];
 
 const router = createRouter({

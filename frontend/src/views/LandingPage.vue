@@ -6,8 +6,6 @@
         <leaderboard-summary />
 
         <parent-component></parent-component>
-
-        <task-list />
     </div>
 </template>
 
@@ -15,10 +13,9 @@
     import LeaderboardSummary from '../components/LeaderboardSummary.vue'
 
     //to add component to this vue
-    //1. import
-    //2. TaskList add to components within export TaskList
-    //3. add element to <template. Here we added  <task-list /> It looks for Pacal case version if Import step and converts it to cabab automatically. Must write in this format
-    import TaskList from '../components/TaskList.vue'
+    //1. import from path and match name in the NameOfComponent.vue export - ParentComponent
+    //2. ParentComponent - add to components: property within export default
+    //3. add element to <template. Here we added  <parent-component/> It looks for Pacal case version if Import step and converts it to cabab automatically. Must write in this format
 
     //import parent only, not child. Parent is importing and using child component already
     import ParentComponent from '../components/ParentComponent.vue'
@@ -27,7 +24,6 @@
         name: 'LandingPage',
         components: {
             LeaderboardSummary,
-            TaskList,
             ParentComponent
         }
 

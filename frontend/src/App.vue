@@ -13,9 +13,10 @@
                <router-link to="/leaderboard">Leaderboard</router-link>
                <router-link to="/controls">Controls</router-link>
                <router-link to="/founder">Founders</router-link>
-               <router-link to="/contact ">Contact</router-link>
+               <router-link to="/contact">Contact</router-link>
+               <router-link to="/tasklist">Task List</router-link>
            </nav>
-           <img src="./assets/raf.jpg" alt="Raf housing"
+           <!--<img src="./assets/raf.jpg" alt="Raf housing"-->
        </header>
 
        <main>
