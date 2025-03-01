@@ -23,7 +23,7 @@
                 const userEnteredInterest = this.$refs.newRaffInterest.value //save the input from the user as a const
 
                 if (userEnteredInterest) {
-                    const raffPattern = /\braff(s|s|f)?\b/i;                     //pattern to look for. Any variation on word "raff"
+                    const raffPattern = /raff/i;                                //pattern to look for. Any variation on word "raff"
                                                                                 //variableOfPaternThatIsSearchingFor.test(variableToTest)
 
                     if (raffPattern.test(userEnteredInterest)) {
@@ -50,6 +50,7 @@
     <div>
         <!--To get the handle of this element, use the ref we assigned. Save the ref as a variable and then it can be manipulated-->
         <!--the method AddNewInterest uses the ref to get the handle of the element to manipulate-->
+        <!--template ref are like querySelector. They store reference to DOM element inside a variable-->
         <input type="text" ref="newRaffInterest" />
         <button @click="AddNewInterest">Give Raff Another Interest</button>
 

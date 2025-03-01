@@ -4,9 +4,10 @@
     "\\backend",
     "\\frontend",
     "\\frontend\\src",
+    "\\frontend\\src\\assets",
     "\\frontend\\src\\components",
     "\\frontend\\src\\views"
   ],
-  "SelectedNode": "\\backend\\server.js",
+  "SelectedNode": "\\frontend\\src\\components\\ChildComponent.vue",
   "PreviewInSolutionExplorer": false
 }
