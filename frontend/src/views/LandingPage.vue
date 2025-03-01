@@ -1,16 +1,15 @@
 <template>
     <div class="landing-page">
         <h1>Welcome to Raf Housing, where we house them rafs</h1>
-        <p>This is the landing page :).</p>
+        
 
-        <leaderboard-summary />
+
 
         <parent-component></parent-component>
     </div>
 </template>
 
 <script>
-    import LeaderboardSummary from '../components/LeaderboardSummary.vue'
 
     //to add component to this vue
     //1. import from path and match name in the NameOfComponent.vue export - ParentComponent
@@ -23,7 +22,6 @@
     export default {
         name: 'LandingPage',
         components: {
-            LeaderboardSummary,
             ParentComponent
         }
 

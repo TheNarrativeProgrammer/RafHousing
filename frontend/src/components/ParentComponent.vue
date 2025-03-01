@@ -14,6 +14,19 @@
         methods: {
             handleCustomEvent(dataFromChild) {
                 this.parentMessage = dataFromChild;
+            },
+            AddNewInterest() {
+                //any element within Template that has red of "newRafInterest" can be access.
+                //this.$refs. --> search 'this' component for elements that can 'ref' tag of the name 'newRafInterest'. This get the handle of the element with this ref
+                this.$refs.newRaffInterest.focus()
+                const userEnteredInterest = this.$refs.newRaffInterest.value //save the input from the user as a const
+
+                if (userEnteredInterest) {
+                    const newInterest = document.createElement('p');        //create a new <p> element. This currently has no content or placement in DOM
+                    newInterest.textContent = userEnteredInterest;          //assigne the var storing the text from user to the text within the <p> element creates
+                    this.$refs.currentRaffInterest.appendChild(newInterest) //place the <p> in the DOM by appending it to the <div that contains the ref of currentRaffInterest
+                    this.$refs.newRaffInterest.value = '';                  //clear the input field
+                }
             }
         }
     }
@@ -24,6 +37,24 @@
 
 <template>
     <div>
+        <!--To get the handle of this element, use the ref we assigned. Save the ref as a variable and then it can be manipulated-->
+        <!--the method AddNewInterest uses the ref to get the handle of the element to manipulate-->
+        <input type="text" ref="newRaffInterest" />
+        <button @click="AddNewInterest">Give Raff Another Interest</button>
+
+        <div class="interest" ref="currentRaffInterest">
+            <h3>This is Raf</h3>
+            <img src="../assets/raf.jpg" alt="Raf housing" />
+            <h3>His intersting include</h3>
+            <p>white water raffing</p>
+            <p>winning draws and raffles</p>
+            <p>Hunting with raiffles</p>
+            <p>Chillin with riff raff</p>
+            <p>Eating Belgium wraffles</p>
+            <p>Raughing at jokes</p>
+            <p>Petting giRAFFes</p>
+        </div>
+
         <!--we start with defualt parentMessage-->
         <h2>Parent Data: {{parentMessage}}</h2>
         <!--we put a child component inside another component, which is it's parent. -->
@@ -44,4 +75,17 @@
 
 
 <style>
+
+    .interest {
+        color: black;
+        list-style-type: none; /*remove bullet points*/
+        background: #ff9ed2;
+        margin: 20px auto;
+        padding: 10px 20px;
+        border-radius: 10px;
+        display: flex;
+        align-items: center; /*vertically, the items justify to middle*/
+        justify-content: space-between; /*equal space between each item in horizontal direction*/
+    }
+
 </style>
