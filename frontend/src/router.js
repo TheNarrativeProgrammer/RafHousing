@@ -13,10 +13,10 @@ import { createRouter, createWebHistory } from 'vue-router';
 import LandingPage from './views/LandingPage.vue';
 import AboutPage from './views/AboutPage.vue';
 import UserPage from './views/UserPage.vue';
-import Leaderboard from './views/LeaderboardPage.vue'
-import ControlsPage from './views/ControlsPage.vue'
-import FounderPage from './views/FounderPage.vue'
-import ContactPage from './views/ContactPage.vue'
+import Leaderboard from './views/LeaderboardPage.vue';
+import ControlsPage from './views/ControlsPage.vue';
+import FounderPage from './views/FounderPage.vue';
+import ContactPage from './views/ContactPage.vue';
 
 const routes = [
     {
@@ -56,7 +56,7 @@ const routes = [
         path: '/contact',
         name: 'Contact',
         component: ContactPage
-    }
+    },
 ];
 
 const router = createRouter({
