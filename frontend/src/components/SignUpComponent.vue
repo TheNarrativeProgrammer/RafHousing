@@ -7,6 +7,11 @@ export default{
             password: '',
 
         }
+    },
+    methods: {
+        handleSubmit(){
+            
+        }
     }
 }
 
@@ -17,7 +22,7 @@ export default{
 
 
 <template>
-<form>
+<form @submit="handleSubmit">
     <label>Email:</label>
     <!--v-model="variableToLinkTo"  -->
     <input type="email" required v-model="email">
