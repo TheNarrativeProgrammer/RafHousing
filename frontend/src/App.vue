@@ -15,6 +15,7 @@
                <router-link to="/founder">Founders</router-link>
                <router-link to="/contact">Contact</router-link>
                <router-link to="/tasklist">Task List</router-link>
+               <router-link to="/signup">Sign Up</router-link>
            </nav>
            
        </header>

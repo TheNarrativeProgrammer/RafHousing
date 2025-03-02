@@ -6,7 +6,7 @@
                 creators: "Reid",
                 authors: ["Reid", "Raf", "our lord a savour"],
                 likes: 1,
-                showImage: true
+                showImage: false
             }
         },
         //methods property - this is a propery still within the data object. It contains all of the functions/methods for this vue/component.

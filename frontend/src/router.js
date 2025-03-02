@@ -18,6 +18,7 @@ import ControlsPage from './views/ControlsPage.vue';
 import FounderPage from './views/FounderPage.vue';
 import ContactPage from './views/ContactPage.vue';
 import TaskListPage from './views/TaskListPage.vue';
+import SignUpPage from './views/SignUpPage.vue';
 
 const routes = [
     {
@@ -62,6 +63,11 @@ const routes = [
         path: '/tasklist',
         name: 'TaskList',
         component: TaskListPage
+    },
+    {
+        path: '/signup',
+        name: 'SignUp',
+        component: SignUpPage
     },
     
 

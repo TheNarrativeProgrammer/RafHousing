@@ -2,6 +2,7 @@
     <div class="landing-page">
         <h1>Welcome to Raf Housing, where we house them rafs</h1>
         
+        
 
 
 
@@ -21,9 +22,11 @@
 
     export default {
         name: 'LandingPage',
+        
         components: {
             ParentComponent
-        }
+        },
+        
 
     }
 </script>
