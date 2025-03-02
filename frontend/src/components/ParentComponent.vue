@@ -17,7 +17,7 @@
                 this.parentMessage = dataFromChild;
             },
             AddNewInterest() {
-                //any element within Template that has red of "newRafInterest" can be access.
+                //any element within Template that has ref of "newRafInterest" can be access.
                 //this.$refs. --> search 'this' component for elements that can 'ref' tag of the name 'newRafInterest'. This get the handle of the element with this ref
                 this.$refs.newRaffInterest.focus()
                 const userEnteredInterest = this.$refs.newRaffInterest.value //save the input from the user as a const

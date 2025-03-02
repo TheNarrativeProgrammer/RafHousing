@@ -19,6 +19,7 @@ import FounderPage from './views/FounderPage.vue';
 import ContactPage from './views/ContactPage.vue';
 import TaskListPage from './views/TaskListPage.vue';
 import SignUpPage from './views/SignUpPage.vue';
+import RafHousingGamePage from './views/RafHousingGamePage.vue';
 
 const routes = [
     {
@@ -27,6 +28,11 @@ const routes = [
         component: LandingPage //component here is the "name" must match the 'name' the export of the vue file 
         //in LandingPage.vue            export default {
                                             //name: 'LandingPage',
+    },
+    {
+        path: '/rafHousing',
+        name: 'RafHousing',
+        component: RafHousingGamePage
     },
     {
         path: '/about',

@@ -8,6 +8,7 @@
                <!-- / -> this is defined in the router.js in the import phase-->
                <!-- /about -> this is defined in the router.js in the import phase-->
                <router-link to="/">Home</router-link>
+               <router-link to="/rafHousing" class="rafhouse">RAFF HOUSING</router-link>
                <router-link to="/about">About</router-link>
                <router-link to="/user/1">User</router-link>
                <router-link to="/leaderboard">Leaderboard</router-link>
@@ -48,6 +49,10 @@
     a {
         margin-right: 50px;
         
+    }
+    .rafhouse{
+        color: red;
+        size: 10px;
     }
 </style>
 
